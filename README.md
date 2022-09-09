@@ -4,7 +4,7 @@ A small script, that allows you to time your tea on MacOS, since there is no pre
 ## 🔧️ Installation
 ```shell
 git clone git@github.com:BeneLuWi/tea-timer.git
-cd tea_timer
+cd tea-timer
 chmod +x timer.sh
 ```
 
