@@ -20,6 +20,7 @@ Usage: timer.sh [minutes]
 ## ☕ Features 
 - Native Notification
 - Native Alert Sound
+- Can be used for other stuff than tea
 
 ### 🍪 TODOs 
 - [ ] Use a config file for sound and notification text
